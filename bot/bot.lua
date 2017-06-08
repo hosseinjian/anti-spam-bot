@@ -237,7 +237,7 @@ function create_config( )
     "commands",
     "export_gban",
     "giverank",
-    "id",
+    "@hossein_jian",
     "links",
     "moderation",
     "plugins",
